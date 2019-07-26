@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: https://pavelivanov.net/sitemap.xml
